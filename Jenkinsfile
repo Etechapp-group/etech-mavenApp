@@ -1,6 +1,3 @@
-
-
-sonarqube analysis jenkinsfile:
 pipeline {
   agent any
   tools {
